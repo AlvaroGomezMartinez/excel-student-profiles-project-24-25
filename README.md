@@ -1,0 +1,4 @@
+# NORTHSIDE INDEPENDENT SCHOOL DISTRICT
+## Chavez Excel Academy and The Department of Academic Technology<br/><br/>Excel Student Profiles Project 24-25
+This is a Google Apps Scripts project that supports Excel Academy's counselor secretary. The objective is to create a student profile (a Google Doc) that teachers at Excel can reference for student information. The workflow involves students going to a clerk and having a headshot taken. The headshot is placed in a shared network drive. The counselor's secretary gets the picture and moves it to a Google Drive folder, opens a Google Worksheet, runs a Google Apps Script function that gets the url for the picture and embeds it in the Google Sheet. She then runs an Autocrat job that creates the profile sheet and embeds the picture.<br/><br/>
+<b>Point of contact:</b> [Alvaro Gomez](alvaro.gomez@nisd.net), Academic Technology Coach, 210-363-1577
